@@ -1,0 +1,4 @@
+Up-arrow - move forward
+Left arrow - turn left
+Right arrow - turn right
+Space - shoot
